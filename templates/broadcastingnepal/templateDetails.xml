@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE install PUBLIC "-//Joomla! 2.5//DTD template 1.0//EN" "https://www.joomla.org/xml/dtd/2.5/template-install.dtd">
+<extension version="3.1" type="template" client="site">
+	<name>broadcasting nepal</name>
+	<version>1.0</version>
+	<creationDate>26/05/2019</creationDate>
+	<author>Pravin Basnet</author>
+	<authorEmail>pravinbasnet321@gmail.com</authorEmail>
+	<authorUrl>pravinbasnet.com.np</authorUrl>
+	<copyright>Copyright (C) 2005 - 2018. All rights reserved.</copyright>
+	<description>TPL_MT_DEEWAR_HOTEL_XML_DESCRIPTION</description>
+	<files>
+		<filename>component.php</filename>
+		<filename>error.php</filename>
+		<filename>favicon.ico</filename>
+		<filename>index.php</filename>
+		<filename>templateDetails.xml</filename>
+		<filename>template_preview.png</filename>
+		<filename>template_thumbnail.png</filename>
+		<folder>css</folder>
+		<folder>html</folder>
+		<folder>images</folder>
+		<folder>img</folder>
+		<folder>js</folder>
+		<folder>language</folder>
+		<folder>less</folder>
+	</files>
+	<positions>
+		<position>mainmenu</position>
+		<position>top-search</position>		
+		<position>banner</position>		
+		<position>recent-news</position>		
+		<position>recentmenu</position>
+		<position>contactdetails</position>
+		<position>policy</position>
+		<position>notice</position>
+		<position>adds</position>
+		<position>facebook</position>
+		<position>newsscroll</position>
+		<position>mailus</position>
+		<position>footer</position>
+		<position>debug</position>
+		
+	</positions>
+	<languages folder="language">
+		<language tag="en-GB">en-GB/en-GB.tpl_BROADCASTING.ini</language>
+		<language tag="en-GB">en-GB/en-GB.tpl_BROADCASTING.sys.ini</language>
+	</languages>
+	
+</extension>

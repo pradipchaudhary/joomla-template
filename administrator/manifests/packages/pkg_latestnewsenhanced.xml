@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension version="3.1" type="package" method="upgrade">
+	<name>PKG_LATESTNEWSENHANCED</name>
+	<author>Olivier Buisard</author>
+	<creationDate>10/07/2016</creationDate>
+	<packagename>latestnewsenhanced</packagename>
+	<copyright>Copyright (C) 2011 Simplify Your Web. All rights reserved.</copyright>
+	<license>GNU General Public License version 3 or later</license>
+	<url>http://www.simplifyyourweb.com/</url>
+	<packager>Olivier Buisard</packager>
+ 	<packagerurl>http://www.simplifyyourweb.com/</packagerurl>
+	<version>3.0.4</version>
+	<description>PKG_LATESTNEWSENHANCED_XML_DESCRIPTION</description> 
+	<scriptfile>installer.php</scriptfile>
+	<languages>
+		<language tag="de-DE">language/de-DE/de-DE.pkg_latestnewsenhanced.sys.ini</language>
+		<language tag="en-GB">language/en-GB/en-GB.pkg_latestnewsenhanced.sys.ini</language>
+		<language tag="es-ES">language/es-ES/es-ES.pkg_latestnewsenhanced.sys.ini</language>
+		<language tag="fi-FI">language/fi-FI/fi-FI.pkg_latestnewsenhanced.sys.ini</language>
+		<language tag="fr-FR">language/fr-FR/fr-FR.pkg_latestnewsenhanced.sys.ini</language>
+		<language tag="it-IT">language/it-IT/it-IT.pkg_latestnewsenhanced.sys.ini</language>
+		<language tag="pt-BR">language/pt-BR/pt-BR.pkg_latestnewsenhanced.sys.ini</language>
+		<language tag="ru-RU">language/ru-RU/ru-RU.pkg_latestnewsenhanced.sys.ini</language>
+		<language tag="sl-SI">language/sl-SI/sl-SI.pkg_latestnewsenhanced.sys.ini</language>
+		<language tag="tr-TR">language/tr-TR/tr-TR.pkg_latestnewsenhanced.sys.ini</language>
+	</languages>
+ 	<files folder="packages">
+		<file type="module" id="latestnewsenhanced" client="site">mod_latestnewsenhanced.zip</file>
+	</files>
+	<updateservers>
+		<server type="extension" priority="1" name="Latest News Enhanced updater">http://www.barejoomlatemplates.com/autoupdates/latestnewsenhanced/latestnewsenhanced-pkg-update.xml</server>
+	</updateservers>
+</extension>
