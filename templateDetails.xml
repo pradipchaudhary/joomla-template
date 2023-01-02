@@ -5,7 +5,7 @@
 	<creationDate>2020-08-26</creationDate>
 	<author>Pradip Chaudhary</author>
 	<authorEmail>chaudharypradip678@gmail.com</authorEmail>
-	<authorUrl>http://www.example.com</authorUrl>
+	<authorUrl>http://www.pradipchaudary.com.np</authorUrl>
 	<copyright>Mustafa 2020</copyright>
 	<license>GNU/GPL</license>
 	<version>1.0.2</version>
@@ -15,7 +15,7 @@
 		<filename>templateDetails.xml</filename>
 		<folder>images</folder>
 		<folder>css</folder>
-                <folder>js</folder>
+        <folder>js</folder>
 	</files>
 	<positions>
 		<position>breadcrumb</position>
