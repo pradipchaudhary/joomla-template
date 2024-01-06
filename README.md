@@ -1,8 +1,8 @@
-# 🚀 Welcome to the Joomla! 3.x Template Repository 🎨
+# 🚀 Welcome to the Joomla! 4.x Template Repository 🎨
 
-This repository houses a versatile and responsive Joomla! 3.x template, crafted to offer a seamless web experience. Built with the latest web standards, it provides a solid foundation for creating stunning websites on the Joomla! CMS.
+This repository houses a versatile and responsive Joomla! 4.x template, crafted to offer a seamless web experience. Built with the latest web standards, it provides a solid foundation for creating stunning websites on the Joomla! CMS.
 
-🌟 **Key Features:**
+## 🌟 **Key Features:**
 
 -   Fully responsive design for all devices
 -   Customizable layout and style options
@@ -11,13 +11,14 @@ This repository houses a versatile and responsive Joomla! 3.x template, crafted 
 -   Optimized for performance and fast loading times
 -   Easy-to-understand structure for quick setup and customization
 
-🔧 **Getting Started:**
+## 🔧 **Getting Started:**
 
 -   Clone or download the repository
 -   Follow detailed documentation for installation and configuration
 -   Start customizing and building your Joomla! website effortlessly
 
-🤝 **Contributions Welcome:**
+## 🤝 **Contributions Welcome:**
+
 This project thrives on community contributions. Feel free to open issues, suggest enhancements, or submit pull requests. Together, let's create an outstanding Joomla! template for everyone to use!
 
 📚 **Resources:**
@@ -31,7 +32,3 @@ This project thrives on community contributions. Feel free to open issues, sugge
 -   [Forum Discussions](forum-link): Engage with the community
 
 🚀 Let's empower Joomla! users with a visually stunning and feature-rich template. Join us on this exciting journey! 🎉
-
----
-
-This description gives an overview of the repository, highlighting its key features, ease of use, and the invitation for community contributions, all while providing essential links and resources for users and contributors.
