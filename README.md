@@ -1,10 +1,4 @@
-Absolutely, here's a succinct and informative description for a Joomla! 3.x Template repository on GitHub:
-
----
-
-**Repository Description:**
-
-🚀 Welcome to the Joomla! 3.x Template Repository 🎨
+# 🚀 Welcome to the Joomla! 3.x Template Repository 🎨
 
 This repository houses a versatile and responsive Joomla! 3.x template, crafted to offer a seamless web experience. Built with the latest web standards, it provides a solid foundation for creating stunning websites on the Joomla! CMS.
 
